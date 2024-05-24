@@ -26,3 +26,6 @@ Demo:
 Check out the live demo of the project: https://anurag-jaiswal-aj.github.io/Animated_Website/
 
 Screenshots: ![Screenshot 2024-05-24 231443](https://github.com/anurag-jaiswal-aj/Animated_Website/assets/144160916/6d914fe7-0d46-4b9a-840c-46321fd681a5)
+![Screenshot 2024-05-24 232004](https://github.com/anurag-jaiswal-aj/Animated_Website/assets/144160916/ef6286fe-ee38-48f8-bc07-c454d9c6665c)
+![Screenshot 2024-05-24 232220](https://github.com/anurag-jaiswal-aj/Animated_Website/assets/144160916/80203507-34ce-4c47-b3be-0d9faefd5329)
+![Screenshot 2024-05-24 232146](https://github.com/anurag-jaiswal-aj/Animated_Website/assets/144160916/c5e2fcb6-68d7-47cb-894d-2e30cf254783)
