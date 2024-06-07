@@ -38,6 +38,13 @@ body::-webkit-scrollbar-thumb{
     z-index: 99;
 }
 
+#nav button{
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+}
+
 #cursor-blur {
     height: 500px;
     width: 500px;
@@ -59,6 +66,10 @@ body::-webkit-scrollbar-thumb{
     justify-content: flex-start;
     align-items: center;
     z-index: 99;
+}
+
+#nav a{
+    text-decoration: none;
 }
 
 #nav img {
@@ -102,7 +113,7 @@ video {
     position: relative;
 }
 
-#page1 h1::before {
+/* #page1 h1::before {
     content: "EAT. DRINK. PLAY.";
     position: absolute;
     color: black;
@@ -111,7 +122,7 @@ video {
     -webkit-text-stroke: 1px #95c11e;
     z-index: -1;
 
-}
+} */
 
 #page1 h2 {
     font-size: 30px;
@@ -240,7 +251,7 @@ video {
 #about-us-in h3 {
     font-size: 50px;
     font-weight: 800;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 #about-us-in p {
@@ -495,6 +506,16 @@ video {
     text-transform: uppercase;
     color: #000;
     font-weight: 600;
-    line-height: 20px;
+    line-height: 22px;
     margin-bottom: 8px;
+}
+
+#f4 a{
+    text-decoration: none;
+    color: black;
+}
+
+#f4 i{
+    color: black;
+    padding-right: 5px;
 }
